@@ -1,0 +1,7 @@
+.env
+/public/
+/config/
+/node_modules/
+/config/
+/data/
+!/**/.gitkeep
